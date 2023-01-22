@@ -1,7 +1,7 @@
 import discord
 
 
-TOKEN = 'MTA2MzU4MDM2NzIxNjQ0NzUxOA.G0ABEa.QaFD8FJSKO_0O3kqhoHeUHAXjUACjXMFVw0Q4U'
+TOKEN = 'YOUR TOKEN HERE'
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
 
