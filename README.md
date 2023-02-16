@@ -1,2 +1,3 @@
 # Energybot
-Energybot is the best bot for any Discord server, it is work in progress and if you find any bugs tell us!
+Energybot is a bot prototype that we are working on.
+For now it's going to be powering on your discord bot but we are working on
